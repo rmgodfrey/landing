@@ -1,0 +1,18 @@
+.banner {
+  height: 71vh;
+  background-size: cover;
+  background-position: 50% 47%;
+  display: flex;
+  align-items: center;
+  color: white;
+  text-shadow: 0 0 5px #000000;
+}
+
+.banner p {
+  font-size: 1.25em;
+  color: rgb(164, 164, 164);
+}
+
+.banner .btn {
+  text-shadow: initial;
+}

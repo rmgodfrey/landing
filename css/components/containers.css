@@ -1,0 +1,20 @@
+.container-main {
+  width: 900px;
+  margin: 0 auto;
+}
+
+.container-cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container-icons {
+  display: flex;
+  font-size: 2em;
+  justify-content: center;
+  gap: 20px;
+}
+
+.container-icons-green {
+  color: rgb(28, 213, 142);
+}

@@ -1,0 +1,20 @@
+.card-steps {
+  box-shadow: 0 0 3px #b5b5b5;
+  height: 250px;
+  width: 200px;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+}
+
+.card-steps h2, p {
+  font-size: 16px;
+}
+
+.card-steps p {
+  color: rgb(164, 164, 164);
+}
+
+.card-steps img {
+  height: 40%;
+}
